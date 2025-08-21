@@ -29,5 +29,6 @@ Smooth search & filter functionality 🔍
 A great way to strengthen my frontend development skills 🚀
 
 🌐Live Demo 👉https://lnkd.in/gePNABrG
+📧 raajivraajiv417@gmail.com
 
 Thanks for visiting
